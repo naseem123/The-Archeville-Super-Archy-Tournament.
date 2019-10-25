@@ -11,6 +11,8 @@ python game.py
 
 
 Sample Input
+###################
+
 No of rounds to play 3
 Enter the score of Jaons Dain from team Gyrhuna A
 Enter the score of Susu from team Gyrhuna A
